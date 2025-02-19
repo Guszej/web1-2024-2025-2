@@ -2,5 +2,5 @@
 A Web1 tantárgy anyagai
 
 ## Követelmények
-- 2 beadandó + 2 gyakorlati zh
+- 2 beadandó + gyakorlati zh
 

@@ -1,0 +1,57 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web okosságok</title>
+    <style>
+        h1 {
+            font-size: 16px; 
+            color: navy;
+        }
+        .user-card {
+            width: 200px;
+            height: 200px;
+            background-color: lightblue;
+            color: rgb(216, 34, 110);
+            margin: 5px;
+            font-family: sans-serif;
+            border: solid 1px;
+            border-radius: 10px;
+            padding: 4px;
+            box-sizing: border-box;
+        }
+        .active {
+            background-color: lightsalmon;
+            color: chartreuse;
+        }
+
+        .user-card:hover {
+            box-shadow: 0 0 5px;
+        }
+
+        .user-card h2 {
+            text-align: center;
+        }
+
+        .user-card p {
+            font-style: italic;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Web1 okosságok</h1>
+
+    <div class="user-card">
+        <h2>User Card</h2>
+        <p>Name: Chad</p>
+    </div>
+    <div class="user-card active">
+        User Card
+    </div>
+    <div class="user-card">
+        User Card
+    </div>
+</body>
+</html>

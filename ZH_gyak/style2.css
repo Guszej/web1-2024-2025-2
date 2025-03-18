@@ -1,0 +1,61 @@
+.header {
+    background-color: aqua;
+    color: aliceblue;
+    border: 1px solid purple;
+}
+
+.box {
+    border: 3px solid red;
+    float: left;
+    margin: 2px;
+    padding: 10px;
+    background-color: brown;
+    box-sizing: border-box;
+    box-shadow: 0 0 10px;
+    width: 49%;
+}
+
+.active {
+    font-family: sans-serif;
+    color: chocolate;
+}
+
+img {
+    align-items: center;
+    width: 50%;    
+}
+
+#lol {
+    text-align: center;
+    font-style: italic;
+}
+
+#lol:hover{
+    color: blueviolet;
+}
+
+table, th, td {
+    border: 2px solid gray;
+}
+
+td {
+    text-align: center;
+}
+
+th {
+    width: 33%;
+}
+
+.box2 {
+    background-color: crimson;
+    padding: 25% 17%;
+    box-sizing: border-box;
+}
+
+.tab img {
+    width: 100%;
+}
+
+.tab:hover {
+    width: 200%;
+}

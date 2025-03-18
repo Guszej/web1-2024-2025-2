@@ -1,0 +1,30 @@
+h1 {
+    color: green;
+}
+
+.blue {
+    color: blue;
+}
+
+h2 {
+    color: green;
+}
+
+h3 {
+    color: #FFAAEE;
+}
+
+body {
+    color: green;
+    font-size: 20px;
+}
+
+.box {
+    height: 1im;
+    width: 10%;
+    padding: 20px;
+    margin: 50px;
+    border: 10px solid black ;
+    background-color: red;
+    text-align: center;
+}
